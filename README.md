@@ -1,13 +1,13 @@
-# DATA 205 Final Project
+### DATA 205 Final Project
 
-## Overview
+#### Overview
 This project analyzes [your topic] using R and/or Python. The goal is to explore patterns, clean and process data, and perform analysis and modeling.
 
-## Tools Used
+#### Tools Used
 - R (RStudio / Quarto)
 - Python (Jupyter / Colab)
 
-## Project Structure
+#### Project Structure
 This repository follows a structured data science workflow:
 - data/ → raw and processed datasets
 - ingestion/ → data loading and cleaning
@@ -15,5 +15,5 @@ This repository follows a structured data science workflow:
 - analysis/ → modeling and results
 - reports/ → final outputs and presentations
 
-## Author
+#### Author
 [Your Name]
